@@ -1,4 +1,0 @@
-Object_Detection_Transformers/main-repo/dataset/train/images/**
-Object_Detection_Transformers/main-repo/dataset/test/images/**
-Object_Detection_Transformers/main-repo/dataset/train/labels/**
-Object_Detection_Transformers/main-repo/dataset/test/labels/**
